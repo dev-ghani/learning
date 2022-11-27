@@ -578,12 +578,12 @@ ul {
 }
 
 .error-content {
-  background: #ff000047;color: red;
+  background: #ff000047;color: green;
   text-align: center;
 }
 
 .error-content h1 {
-  style="color: red"
+  style="color: green"
 }
 
 
