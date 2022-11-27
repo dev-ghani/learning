@@ -48,7 +48,7 @@
         if ( $('.counter').length ){ 
             $('.counter').counterUp({
                 delay: 10,
-                time: 400
+                time: 500
             });
         }
     }
